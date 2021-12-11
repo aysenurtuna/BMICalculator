@@ -1,0 +1,33 @@
+*{
+    font-family: 'Exo', sans-serif;
+    color: #fff;
+}
+.screen{
+    border-radius: 10px;
+}
+.btn{
+    margin-right: 5px;
+}
+#result{
+    font-size: 30px;
+}
+.bmiResult{
+    height: 95px;
+}
+.bmiResults{
+    height: 95px;
+    font-size: 13px;
+}
+.info{
+    margin-top: 17px;
+}
+.info2{
+    font-size: 12px;
+}
+.bmiResult:nth-child(1){
+    border-radius: 15px 0px 0px 15px;
+}
+.bmiResult:nth-child(4){
+    border-radius:0px 15px 15px 0px;
+
+}
